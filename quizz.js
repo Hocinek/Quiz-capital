@@ -34,7 +34,7 @@ const questions = [
     {
         question: "Quel est la capitale de France ?",
         options: ["Paris", "Strasbourg", "Marseille", "Rennes"],
-        correct: 1
+        correct: 0
     }
 ];
 
